@@ -1,0 +1,58 @@
+{
+    "secciones":[
+        {
+         
+        "numero": "1",
+        "nombre":"Increíble!",
+        "icono": "bienestar_a",
+        "sentimiento": "increíble",
+        "botones": ["Mi glucemia anduvo muy bien",
+            "Me sentí bien con la Diabetes",
+            "Me he sentido muy bien físicamente",
+             "Fue un muy buen día"]},
+        {
+        "numero": "2",
+        "nombre":"Bien",
+        "icono": "bienestar_b",
+        "sentimiento": "bien",
+        "botones": ["Aprendí algo nuevo sobre Diabetes",
+            "Mi glucemia anduvo bien",
+            "Entiendo mejor la Diabetes",
+             "Me he sentido bien físicamente",
+             "Solo fue un buen día"
+             ]},
+        {
+        "numero": "3",
+        "nombre":"Agotado",
+        "icono": "bienestar_c",
+        "sentimiento": "asì",
+        "botones": ["Tengo resfriado",
+            "Mi glucemia anduvo mal",
+            "Tratar la Diabetes me agota",
+             "Me he sentido raro físicamente",
+             "Fue un día diferente"]},
+        {
+        "numero": "4",
+        "nombre":"Mal",
+        "icono": "bienestar_d",
+        "sentimiento": "mal",
+        "botones": ["Tengo resfriado",
+            "Mi glucemia anduvo mal",
+            "Tratar la Diabetes me disgusta",
+             "Tengo estrés",
+             "Solo fue un mal día"
+             ]},
+        {
+        "numero": "5",
+        "nombre":"Estresado",
+        "icono": "bienestar_e",
+        "sentimiento": "horrible",
+        "botones": ["Tengo resfriado",
+            "Mi glucemia anduvo mal",
+            "Tratar la Diabetes me abruma",
+             "Me he sentido raro físicamente",
+             "Solo fue un mal día"]}
+            ]
+        
+
+}
